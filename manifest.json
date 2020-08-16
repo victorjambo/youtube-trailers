@@ -1,11 +1,21 @@
 {
-  "name": "thesite",
+  "name": "Trailers on YouTube",
   "version": "1.0",
-  "description": "Play Trailer from YouTube",
+  "description": "Search movie trailer on YouTube from text selection",
   "manifest_version": 2,
-  "permissions": ["storage"],
+  "icons": {
+    "128": "icon128.png",
+    "48": "icon48.png",
+    "16": "icon16.png"
+  },
+  "permissions": [
+    "tabs",
+    "contextMenus"
+  ],
   "background": {
-    "scripts": ["content.js"],
+    "scripts": [
+      "background.js"
+    ],
     "persistent": false
   }
 }
