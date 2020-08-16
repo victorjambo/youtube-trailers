@@ -9,6 +9,7 @@
   "author": "Victor Mutai <victormutaijambo@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-zip": "^5.0.2"
   }
 }

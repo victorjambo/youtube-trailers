@@ -1,7 +1,7 @@
 
 var menuItem = {
   "id": "YouTube",
-  "title": "Trailer on YouTube",
+  "title": "!Trailer on YouTube",
   "contexts": ["selection"]
 };
 
