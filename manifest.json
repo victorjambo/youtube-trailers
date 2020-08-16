@@ -1,0 +1,11 @@
+{
+  "name": "thesite",
+  "version": "1.0",
+  "description": "Play Trailer from YouTube",
+  "manifest_version": 2,
+  "permissions": ["storage"],
+  "background": {
+    "scripts": ["content.js"],
+    "persistent": false
+  }
+}
