@@ -1,1 +1,11 @@
+### JavaScript ###
+*.js.map
 node_modules
+*/npm-debug.log
+
+### OSX ###
+*.DS_Store
+
+### Sass ###
+.sass-cache/
+*.css.map
