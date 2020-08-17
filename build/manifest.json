@@ -1,6 +1,6 @@
 {
   "name": "Trailers on YouTube",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "Search movie trailer on YouTube from text selection",
   "manifest_version": 2,
   "icons": {
@@ -9,7 +9,6 @@
     "16": "icon16.png"
   },
   "permissions": [
-    "tabs",
     "contextMenus"
   ],
   "background": {
